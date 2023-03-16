@@ -1,5 +1,5 @@
 # WindowsPasser
-A project to unlock windows systems with device access. The project consists of the tool itself and an ISO file which is simply used for running the tool on the target machine.
+A project to unlock windows systems with physical access. The project consists of the tool itself and an ISO file which is simply used for running the tool on the target machine.
 
 
 # How does it work ?
