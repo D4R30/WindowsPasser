@@ -10,6 +10,6 @@ Remember how you recovered your lost windows login password ? Well, thats someho
 # What is the ISO file?
 The ISO file is a customized "Tiny Core Linux" system. The ISO is sth around 17M and it just contains a simple system with basic binaries and WindowsPasser
 
-![alt text](https://github.com/D4R30/WindowsPasser/blob/main/boot.jpg?raw=true)
+![alt text](https://github.com/D4R30/WindowsPasser/blob/main/boot.png?raw=true)
 
 Enjoy and ofc, learn!
